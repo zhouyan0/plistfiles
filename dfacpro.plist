@@ -1,0 +1,43 @@
+	<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+	<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+						<string>http://58.48.109.90:8081/eapweb/apiproxy/fileserver/noauthfile/downfile/4e5acf529c5e4a49aa5a31c831c5f2ee</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>url</key>
+						<string>https://zyatwh.gitee.io/dfachy/img/57X57.png</string>
+					</dict>
+					<dict>
+						<key>kind</key>
+						<string>full-size-image</string>
+						<key>url</key>
+						<string>https://zyatwh.gitee.io/dfachy/img/512X512.png</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+				<dict>
+					<key>bundle-identifier</key>
+					<string>com.dawnpro.dfac.ios</string>
+					<key>bundle-version</key>
+					<string>1.1.0</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>title</key>
+					<string>»ޔĆ½̨</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	</plist>
